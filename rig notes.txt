@@ -1,0 +1,21 @@
+-Hand control pivot points on both sides are in the wrong place
+
+-The tip of the left index finger is missing
+
+-All of the finger joints on both sides are not centered, they are on the back side of the sphere
+
+-The joints on the right finger tips have a rotation value and scale values
+
+-There is some very weird scale issues on most of the geometry
+
+-The joints are positioned toward the back of the sphere on the arms too
+
+-There is a problem with the movement of the right upper leg not staying connected (maybe not being constrained correctly)
+
+-There is a problem with the movement of the right palm not staying connected (maybe not being constrained correctly)
+
+-There are values on rotation or scale on most of your joints
+
+-Your spine control should only control the top portion and you should have a COG control to control both
+
+-The spine and the leg controls don't seem to be oriented correctly
